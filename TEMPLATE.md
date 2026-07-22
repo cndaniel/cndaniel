@@ -13,8 +13,8 @@ This repo is a **GitHub template** — you can generate your own copy without fo
    - `DANIEL` → your name (2 places: the `.mega` text and the `.ghost` echo behind it)
    - `SYSTEMS · SIGNALS · AGENTS` → your slogan
    - The four direction words at the bottom (`network infra`, …) → your own tracks
-   - The corner annotations (`N 31° /// UTC+8`, `EST. MMXVI`, …) → your own metadata,
-     or delete them entirely
+   - The corner annotations (`SHT 01 / 01 /// DO NOT SCALE`, `EST. MMXVI`, …) → your own
+     metadata, or delete them entirely. Avoid coordinates/timezone — they leak location.
    - Colors auto-adapt to dark/light mode via `prefers-color-scheme` — edit the two
      palettes in the `<style>` block if you want different tones
 
